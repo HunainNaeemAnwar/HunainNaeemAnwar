@@ -1,0 +1,4 @@
+*.c linguist-language=Ignore
+*.h linguist-language=Ignore
+*.ts linguist-language=TypeScript
+*.js linguist-language=JavaScript
