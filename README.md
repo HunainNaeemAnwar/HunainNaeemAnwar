@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hunain 👋
 
-<!--
-**HunainNaeemAnwar/HunainNaeemAnwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Frontend Developer  
+🔧 Tech Stack: React • Next.js • TypeScript • Tailwind CSS  
+🧠 Currently learning Agentic AI @ GIAIC  
+💡 Building AI tools and frontend products with smart UIs
 
-Here are some ideas to get you started:
+## 🧠 Projects I'm Proud Of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nexora AI** – Smart AI Assistant powered by GenAI SDK  
+- **ShopCo** – Responsive eCommerce frontend with filtering, cart & UI components  
+
+## 📈 GitHub Stats
+
+![Hunain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunainNaeemAnwar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HunainNaeemAnwar&layout=compact&theme=tokyonight)
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [TikTok](https://tiktok.com/@hunaino)
+- [GitHub](https://github.com/HunainNaeemAnwar)
